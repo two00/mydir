@@ -1,0 +1,2 @@
+# mydir
+a javascritp project
